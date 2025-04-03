@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/b7/79/90/b77990c5cd77083976aebcecd01d77c6.jpg" width="100"/>
+  <img src="https://in.pinterest.com/pin/579979258301932420/" width="100"/>
  <div id="badges">
   <a href="https://www.linkedin.com/in/gitika-gtka26/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
