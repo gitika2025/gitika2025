@@ -36,7 +36,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitika2025&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-<!---
-Gitika-26/Gitika-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
