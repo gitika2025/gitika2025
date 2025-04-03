@@ -31,9 +31,9 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitika-26&layout=compact&theme=vision-friendly-dark)](https://github.com/Gitika2025/github-readme-stats)<br/><br/>
-[![Gitika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitika-26&show_icons=true&theme=radical)](https://github.com/Gitika2025/github-readme-stats) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gitika-26&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitika2025&layout=compact&theme=vision-friendly-dark)](https://github.com/gitika2025/github-readme-stats)<br/><br/>
+[![Gitika's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitika2025&show_icons=true&theme=radical)](https://github.com/gitika2025/github-readme-stats) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gitika2025&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <!---
