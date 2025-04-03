@@ -26,13 +26,13 @@
 <h1> :hammer_and_wrench: Skills :</h1>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,,postgresql,sklearn,git,github,windows" />
+    <img src="https://skillicons.dev/icons?i=py,postgresql,sklearn,git,github,windows" />
   </a>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitika-26&layout=compact&theme=vision-friendly-dark)](https://github.com/Gitika-26/github-readme-stats)<br/><br/>
-[![Gitika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitika-26&show_icons=true&theme=radical)](https://github.com/Gitika-26/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitika-26&layout=compact&theme=vision-friendly-dark)](https://github.com/Gitika2025/github-readme-stats)<br/><br/>
+[![Gitika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitika-26&show_icons=true&theme=radical)](https://github.com/Gitika2025/github-readme-stats) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gitika-26&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
